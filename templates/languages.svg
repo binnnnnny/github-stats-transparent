@@ -18,19 +18,16 @@ svg {
 
 foreignObject {
   width: calc(100% - 10px - 32px);
-  height: calc(100% - 10px - 24px);
 }
 
 h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: rgb(72, 148, 224);
-  fill: rgb(72, 148, 224);
+  font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+  color: #918FE0;
+  fill: #918FE0;  
 }
-
 ul {
   list-style: none;
   padding-left: 0;
@@ -82,11 +79,11 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(135, 135, 135);
+  color: #ffffff;
 }
 
 .percent {
-  color: rgb(150,150,150)
+  color: #999999
 }
 </style>
 <g>
